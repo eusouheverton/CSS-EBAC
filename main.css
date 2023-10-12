@@ -1,14 +1,13 @@
 * {
-    box-sizing: border-box;
+    box-sizing:border-box;
     margin: 0;
     padding: 0;
-    
 }
 
 body >header {
     background-color: #2f3640;
     padding: 16px 0;
-    color: #f5f6fa
+    color: #f5f6fa;
 }
 
 header .container {
@@ -110,3 +109,8 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#tech {
+    background-color: rgb(197, 247, 247);
+}
+

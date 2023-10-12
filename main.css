@@ -8,15 +8,22 @@
 body >header {
     background-color: #2f3640;
     padding: 16px 0;
+    color: #f5f6fa
 }
 
 header .container {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 
 }
 
 header li {
     display: inline;
+}
+
+header li a {
+    color: #f2f3fa
 }
 
 .container {
@@ -51,13 +58,15 @@ section h2,
     margin-bottom: 16px;
 }
 
-.articles article {
+.articles article h3 {
     margin-top: 8px;
     margin-bottom: 8px;
 }
 
 .articles article a {
-
+    background-color: blue;
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
 }
 
-llffndsnkjnhalsdjd

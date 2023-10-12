@@ -12,7 +12,7 @@ body >header {
 
 header .container {
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: space-between;
 
 }
@@ -113,4 +113,3 @@ section h2 {
 #tech {
     background-color: rgb(197, 247, 247);
 }
-
